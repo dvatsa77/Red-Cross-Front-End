@@ -1,0 +1,10 @@
+
+body{
+  overflow-x: hidden;
+}
+
+.home:hover{
+  text-decoration:"none";
+  color:"white"; 
+  font-family: "Arial"
+}
